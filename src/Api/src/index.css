@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* ----------------------------------------------
+ Header
+-----------------------------------------------*/
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  align-items: center;
+}
+
+.section {
+  padding: 30px 20px;
+  background-color: #dddddd;
+  min-height: calc(100vh - 53px);
+}
+
+/* ------------------------------------------
+ Home Page
+--------------------------------------------*/
+.section h2 {
+  margin-bottom: 20px;
+}
+.product-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* -------------------------------------------
+ Product Item
+---------------------------------------------*/
+.product-item {
+  width: calc(25% - 20px);
+  background-color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+}
+.product-item img {
+  margin-bottom: 20px;
+  height: 160px;
+}
+.product-item h5 {
+  margin: 20px 0;
+  font-size: 18px;
+}
+.btn {
+  background-color: purple;
+  color: #ffffff;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.product-details {
+  display: flex;
+  padding: 30px 20px;
+  border-top: 1px solid #dddddd;
+}
+.product-details .product-image {
+  width: 300px;
+}
+
+.product-details .product-detail-content {
+  width: calc(100% - 350px);
+  margin-left: 50px;
+}
+.product-details .product-detail-content h3 {
+  font-size: 20px;
+}
+
+/* ---------------------------------------------
+ Checkout
+----------------------------------------------*/
+.checkout-page {
+  padding: 30px 20px;
+  border-top: 1px solid #dddddd;
+}
+
+.checkout-lists {
+  display: flex;
+  background-color: #f8f8f8;
+  border: 1px solid #dddddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+.checkout-lists .checkout-image {
+  width: 200px;
+  background-color: #ffffff;
+  padding: 20px;
+}
+.checkout-lists .checkout-desc {
+  width: calc(100% - 270px);
+  padding-left: 50px;
+  padding-top: 10px;
+}
+.checkout-lists button {
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}

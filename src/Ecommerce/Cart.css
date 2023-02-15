@@ -1,0 +1,32 @@
+.checkout-lists{
+    display: flex;
+    background-color: #f8f8f8;
+    border: 1px solid #dddddd;
+    padding: 10px;
+    margin: 10px 0;
+}
+.checkout-page {
+    padding: 30px 20px;
+    border-top: 1px solid #dddddd;
+  }
+.checkout-lists .checkout-image {
+  width: 200px;
+  background-color: #ffffff;
+  padding: 20px;
+}
+.checkout-lists .checkout-desc {
+    width: calc(100% - 270px);
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.checkout-lists button {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+img {
+    max-width: 100%;
+}

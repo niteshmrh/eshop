@@ -1,0 +1,113 @@
+.header{ 
+    height:70px;
+    background: black;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    display: flex;
+    flex-wrap: nowrap;
+    font-size:20px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.logo-text{
+    text-decoration: none;
+    color: white;
+    margin-left: 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.middle{
+    margin-left: 173px;
+    flex-wrap: nowrap;
+}
+
+
+.middle-button{
+    margin: 4px;
+    color: white;
+    flex-wrap: nowrap;
+}
+
+
+/* style={({ isActive }) => ({ 
+    color: isActive ? 'greenyellow' : 'white' })} */
+.middle-button.active{
+    color: green;   
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+a:visited {
+    text-decoration: none;
+  }
+  
+a:hover {
+    text-decoration: underline;
+  }
+  
+a:active {
+    text-decoration: underline;
+}
+
+
+
+.login-act{
+    margin-right: 25px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.login-activity-cart.active{
+    background: green;
+    color: white;
+}
+
+
+.login-activity-registration{
+    margin: 0px;
+    background: white;
+    border-radius: 15px;
+    font-size: 17px;
+    width: 130px;
+    display: flex;
+    height: 43px;
+    align-items: center;
+}
+
+.login-activity-login{
+    margin: 0px;
+    background: white;
+    border-radius: 15px;
+    font-size: 17px;
+    width: 86px;
+    display: flex;
+    height: 43px;
+    align-items: center;
+}
+
+.login-activity-cart{
+    margin: 0px;
+    background: white;
+    border-radius: 15px;
+    font-size: 17px;
+    width: 95px;
+    display: flex;
+    height: 43px;
+    align-items: center;
+}
+
+.letter-login{
+    margin-bottom: 0px;
+}
+.letter-registration{
+    margin: 0px;
+}
+.letter-cart{
+    margin: 0px;
+    text-decoration: none;
+}
