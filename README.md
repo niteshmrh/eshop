@@ -70,3 +70,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Preview and Images
+### Login page
+<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/login.png">
+
+### Registration page
+<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/Registration.png">
+
+### Home page
+<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/Home.png">
+
+### Product page
+<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/Products.png">
+
+### Contact Us page
+<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/Contact%20Us.png">
+
+### About Us page
+<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/About%20us.png">
+
+#  Using the local storage to store cart items
+
+### Cart page - 1
+<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/cart_1.png">
+
+### Cart page - 2 After increasing the same product
+<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/cart_1.png">
+
+
