@@ -97,6 +97,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/cart_1.png">
 
 ### Cart page - 2 After increasing the same product
-<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/cart_1.png">
+<img src="https://github.com/niteshmrh/eshop/blob/b45dd992cede1351aed5c10950fb9add61b19c32/cart_2.png">
 
 
