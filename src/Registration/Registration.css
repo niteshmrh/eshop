@@ -1,0 +1,29 @@
+.bb {
+    font-weight: bold;
+    display: block;
+    font-size: 13px;
+   }
+   
+.inputs {
+     width: 200px;
+     height: 20px;
+     padding: 1px;
+}
+form{
+  margin-top: -27px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.details-on-form{
+  margin-left: 319px;
+  border: 1px solid black;
+  width: 52%;
+  background: cyan;
+  color: darkblue;
+  margin-top:-10px;
+}
+table{
+  margin-left: 114px;
+  margin-top: 37px;
+}

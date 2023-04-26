@@ -1,0 +1,18 @@
+.about-bg {
+    background-image: url("https://img.freepik.com/free-vector/purple-fluid-background-frame_53876-99020.jpg?w=740&t=st=1675322281~exp=1675322881~hmac=15a58fcd72557476761b141bc299d331f6a53674129db0610dd31e43c464e027");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+}
+
+.about-text {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 30px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+p {
+    margin: 20px;
+}

@@ -1,0 +1,89 @@
+.contact-bg {
+    background-image: url("https://img.freepik.com/free-photo/purple-pink-watercolor-texture-background_1083-169.jpg?1&w=740&t=st=1675329279~exp=1675329879~hmac=47bf55994b1efda4e5435abcf7bc1b67dbdeaff9366fe907098a002b36b1640a");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+}
+
+.content {
+    width: 70%;
+    background-color: rgba(173, 93, 173, 0.5);
+    margin: auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.contact-header {
+    display: flex;
+    flex-direction: column;
+}
+
+.line1 {
+    color: rgb(59, 2, 59);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.line2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family: cursive;
+}
+
+.line3 {
+    text-align: center;
+    font-size: large;
+    margin-bottom: 25px;
+    font-family: cursive;
+}
+
+.contact-form {
+    width: 40%;
+    margin: auto;
+    border: 1px solid rgb(59, 2, 59);
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+}
+
+.contact-form label {
+    display: block;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.contact-form input {
+    padding: 5px;
+    width: 70%;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+textarea {
+    width: 70%;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    max-width: 100%;
+}
+
+.contact-form button {
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    height: 30px;
+    width: 50%;
+    font-weight: bold;
+    background-color: rgb(98, 223, 240);
+    font-family: inherit;
+}
+
+.contact-form button:hover {
+    background-color: coral;
+}

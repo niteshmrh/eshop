@@ -1,0 +1,14 @@
+.on-image {
+    background-image: url("https://react-ecommerce-app-with-redux.netlify.app/assets/slider.jpeg");
+    height: 50vh;
+    background-size: cover;
+    
+    flex-wrap: wrap;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.pad{
+    margin-left:98px;
+    margin-bottom: 1rem;
+    font-style: normal;
+}
